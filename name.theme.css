@@ -1,0 +1,29 @@
+/**
+ * @name ThemeName
+ * @author Obedient
+ * @version 0.0.1
+ * @description Lorem Ipsum
+ * @source https://github.com/Obedient/Theme
+ * @invite eMkbXHPgc5
+ */
+
+/* Imports */
+@import url(./snippets);
+
+/* Sidebar */
+.sidebar-1tnWFu {
+  border-top-left-radius:10px;
+}
+
+
+/* Server List */
+.guilds-2JjMmN {
+  margin-top:10px;
+  margin-bottom:10px;
+  border-top-right-radius:10px!important;
+  border-bottom-right-radius:10px!important;
+  margin-right:10px!important;
+}
+.scroller-3X7KbA {
+  background-color:#171717!important;
+}

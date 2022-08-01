@@ -1,0 +1,28 @@
+/* 
+By Doggybootsy
+Discord UserID: 515780151791976453
+*/
+
+/* pin home */
+.guilds-2JjMmN .tree-3agP2X:focus {
+    outline-color: transparent;
+  }
+  .guilds-2JjMmN .scroller-3X7KbA {
+    contain: unset;
+    margin-top: 53px;
+  }
+  .guilds-2JjMmN .scroller-3X7KbA .tutorialContainer-1pL9QS {
+    position: fixed;
+    transform: translatey( -115% );
+    background-color:#171717;
+    border-top-right-radius:10px;
+  }
+  .tutorialContainer-1pL9QS.listItem-3SmSlK.wrapper-3kah-n[data-list-item-id="guildsnav___home"] {
+    margin-top:25px!important;
+  }
+  .guildSeparator-a4uisj {
+    display:none;
+  }
+  .unreadMentionsIndicatorTop-2bTgUU {
+    margin-top:50px;
+  }
