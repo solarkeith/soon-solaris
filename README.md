@@ -23,3 +23,4 @@
 ## Credits
 
 - [Obscure](https://github.com/Obscure-Git) for the icon change
+- [Doggybootsy](https://github.com/doggybootsy), [A User](https://github.com/abUwUser) & [Disease](https://github.com/maenDisease) for anyother snippets i used
