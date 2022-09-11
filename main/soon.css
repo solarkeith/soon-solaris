@@ -414,11 +414,11 @@ code {
   }
 
   /* All Popups/Modals */
-  .theme-light .root-g14mjS,.container-2rzKKA,.scroller-3nFW5p,.header-3_zmOb,.scroller-2M3eAB, .messagesPopout-eVzQcI, .modalContent-33IoU, .content-2hZxGK, .scroller-145h9c, .channelHeader-DFRX8q {
+  .theme-light .root-g14mjS,.content-2hZxGK,.header-1zd7se,.container-2rzKKA,.scroller-3nFW5p,.header-3_zmOb,.scroller-2M3eAB, .messagesPopout-eVzQcI, .modalContent-33IoU, .content-2hZxGK, .scroller-145h9c, .channelHeader-DFRX8q {
     background-color: var(--dark-background)!important;
     box-shadow: 0 0 0 1px rgb(32 34 37 / 60%), 0 2px 10px 0 rgb(0 0 0 / 20%);
 }
-.theme-light .footer-31IekZ,.footer-5ji8u1,.list-3YHPPb, .footer-1hTRRZ, .modalFooter-2XY3GW, .header-1zd7se,.header-145e10, .header-1w9Q93, .tutorial-Nb3Zz5, .channel-3NJZ1V {
+.theme-light .footer-31IekZ,.message-G6O-Wv,.footer-5ji8u1,.list-3YHPPb, .footer-1hTRRZ, .modalFooter-2XY3GW, .header-1zd7se,.header-145e10, .header-1w9Q93, .tutorial-Nb3Zz5, .channel-3NJZ1V {
     background-color: var(--dark-background-secondary)!important;
     box-shadow: inset 0 1px 0 rgb(47 49 54 / 60%);
 }
@@ -434,4 +434,7 @@ code {
 }
 .copyIcon-3HI-E4 {
   display:none;
+}
+.content-2hZxGK{
+  border-radius:0px!important;
 }
