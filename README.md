@@ -12,6 +12,14 @@
 
 ---
 
+<h1 align="center">Preview</h1>
+<p align="center">
+  <img src="https://i.ibb.co/8DRfm8J/Discord-HUFDi1-Wl83.png" />
+  <img src="https://i.ibb.co/3MQ071p/Discord-TD6-Dc-Nq-G7k.png" />
+</p>
+
+---
+
 ## Installation
 
 - ### [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
