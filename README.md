@@ -8,7 +8,7 @@
   <img src="https://i.ibb.co/9Z12gCb/soon-banner.png" />
 </p>
 
-<p align="center">A smooth discord theme for simple-minded people.</p>
+<p align="center">A smooth, modifiable theme for simple-minded people.</p>
 
 ---
 
