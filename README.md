@@ -22,9 +22,9 @@
 
 ## Installation
 
-- ### [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+- ### [BetterDiscord](https://betterdiscord.app)
 
-  - download the theme file.
+  - download the [themefile](https://github.com/SatanaDesigns/soon/Soon.theme.css).
   - place it in the BetterDiscord themes folder || folder directory : %appdata%/betterdiscord/themes.
   - enable **soon** in the themes tab.
 
