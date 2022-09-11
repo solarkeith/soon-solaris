@@ -261,14 +261,14 @@ code {
     filter:brightness(65%);
   }
   
-  /* Banners */
-  .layer-1Ixpg3 .banner-1YaD3N, .popoutBanner-3cqRD9, .popoutBannerPremium-3i5EE, .bannerPremium-kkSkPv {
-    filter:var(--user-banner-blur);
-    transition:1s ease all;
-  }
-  .layer-1Ixpg3 .banner-1YaD3N:hover, .popoutBanner-3cqRD9:hover, .popoutBannerPremium-3i5EE:hover, .bannerPremium-kkSkPv:hover {
-    filter:none;
-  }
+/* Banners */
+.layer-1Ixpg3 .banner-1YaD3N .banner-2boKnS,.bannerPremium-86naOf,.profileBanner-2zIsK7, .popoutBanner-16rVDY, .popoutBanner-3cqRD9, .popoutBannerPremium-3i5EE, .bannerPremium-kkSkPv {
+  filter:var(--user-banner-blur);
+  transition:1s ease all;
+}
+.layer-1Ixpg3 .banner-1YaD3N:hover,.profileBanner-2zIsK7:hover, .banner-2boKnS:hover, .popoutBanner-3cqRD9:hover, .popoutBannerPremium-3i5EE:hover, .bannerPremium-kkSkPv:hover {
+  filter:none;
+}
   
   /* Avatar */
   .replyAvatar-sHd2sU {
@@ -289,11 +289,11 @@ code {
   }
   
   /* Add Server Button [+] */
-  .theme-light .root-g14mjS {
+  .theme-light .root-g14mjS, .modalContent-33IoU, .header-1zd7se {
       background-color: var(--dark-background);
       box-shadow: 0 0 0 1px rgb(32 34 37 / 60%), 0 2px 10px 0 rgb(0 0 0 / 20%);
   }
-  .theme-light .footer-31IekZ {
+  .theme-light .footer-31IekZ, .modalFooter-2XY3GW {
       background-color: var(--dark-background-secondary);
       box-shadow: inset 0 1px 0 rgb(47 49 54 / 60%);
   }
@@ -412,3 +412,26 @@ code {
     font-weight:bold;
     text-transform:none;
   }
+
+  /* All Popups/Modals */
+  .theme-light .root-g14mjS,.container-2rzKKA,.scroller-3nFW5p,.header-3_zmOb,.scroller-2M3eAB, .messagesPopout-eVzQcI, .modalContent-33IoU, .content-2hZxGK, .scroller-145h9c, .channelHeader-DFRX8q {
+    background-color: var(--dark-background)!important;
+    box-shadow: 0 0 0 1px rgb(32 34 37 / 60%), 0 2px 10px 0 rgb(0 0 0 / 20%);
+}
+.theme-light .footer-31IekZ,.footer-5ji8u1,.list-3YHPPb, .footer-1hTRRZ, .modalFooter-2XY3GW, .header-1zd7se,.header-145e10, .header-1w9Q93, .tutorial-Nb3Zz5, .channel-3NJZ1V {
+    background-color: var(--dark-background-secondary)!important;
+    box-shadow: inset 0 1px 0 rgb(47 49 54 / 60%);
+}
+.channelHeader-DFRX8q {
+  filter:contrast(110%);
+}
+.modalContent-33IoU, .content-2hZxGK {
+  border-radius:0px!important;
+}
+.card-1LSSlz {
+  background-color: transparent!important;
+  border-color:transparent!important;
+}
+.copyIcon-3HI-E4 {
+  display:none;
+}
