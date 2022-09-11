@@ -24,7 +24,7 @@
 
 - ### [BetterDiscord](https://betterdiscord.app)
 
-  - download the [themefile](https://github.com/SatanaDesigns/soon/Soon.theme.css).
+  - download the [theme file](https://github.com/SatanaDesigns/soon/blob/main/Soon.theme.css).
   - place it in the BetterDiscord themes folder || folder directory : %appdata%/betterdiscord/themes.
   - enable **soon** in the themes tab.
 
