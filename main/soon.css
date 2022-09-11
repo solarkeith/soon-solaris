@@ -263,7 +263,7 @@ code {
   
 /* Banners */
 .layer-1Ixpg3 .banner-1YaD3N .banner-2boKnS,.bannerPremium-86naOf,.profileBanner-2zIsK7, .popoutBanner-16rVDY, .popoutBanner-3cqRD9, .popoutBannerPremium-3i5EE, .bannerPremium-kkSkPv {
-  filter:var(--user-banner-blur);
+  filter: blur(calc(var(--banner-blur-amount) * 1px * var(--banner-blur)));
   transition:1s ease all;
 }
 .layer-1Ixpg3 .banner-1YaD3N:hover,.profileBanner-2zIsK7:hover, .banner-2boKnS:hover, .popoutBanner-3cqRD9:hover, .popoutBannerPremium-3i5EE:hover, .bannerPremium-kkSkPv:hover {

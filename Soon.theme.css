@@ -15,6 +15,10 @@
 @import url("https://satanadesigns.github.io/soon/main/soon.css");
 
 :root {
+  /* Banners (modifiable!) */
+  --banner-blur: 1; /* 1 to enabled || 0 to disable */
+  --banner-blur-amount: 3;
+  
   /* Fonts (modifiable!) */
   --font-primary: Inter;
   --font-display: Poppins;
