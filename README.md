@@ -32,7 +32,7 @@
 ## Modify
 
 - Open [soon.theme.css](https://github.com/SatanaDesigns/soon/blob/main/Soon.theme.css)
-- Find `:root {`
+- Find `:root`
 - Change anything in the variables
 - Save
 
