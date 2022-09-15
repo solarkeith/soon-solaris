@@ -1,6 +1,7 @@
 <h1 align="center">Soon</h1>
 <p align="center">
   <a href="#installation">installation</a> |
+  <a href="#modify">modify</a> |
   <a href="#credits">credits</a>
 </p>
 
@@ -27,6 +28,13 @@
   - download the [theme file](https://github.com/SatanaDesigns/soon/blob/main/Soon.theme.css).
   - place it in the BetterDiscord themes folder || folder directory : %appdata%/betterdiscord/themes.
   - enable **soon** in the themes tab.
+
+## Modify
+
+- Open [soon.theme.css](https://github.com/SatanaDesigns/soon/blob/main/Soon.theme.css)
+- Find `:root {`
+- Change anything in the variables
+- Save
 
 ## Credits
 
