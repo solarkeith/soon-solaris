@@ -104,17 +104,16 @@ code {
   /* User Panel */
   .button-12Fmur {
     background-color:#18141d;
-    border-radius:0;
     transition:all 0.2s ease-in-out;
   }
   .button-12Fmur:hover {
     background-color:#241f2b!important;
   }
-  .button-12Fmur:nth-child(1) {
+  .button-12Fmur:first-child {
     border-top-left-radius:10px;
     border-bottom-left-radius:10px;
   }
-  .button-12Fmur:nth-child(3) {
+  .button-12Fmur:last-child {
     border-top-right-radius:10px;
     border-bottom-right-radius:10px;
   }
