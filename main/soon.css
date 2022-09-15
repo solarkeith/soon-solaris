@@ -104,6 +104,7 @@ code {
   /* User Panel */
   .button-12Fmur {
     background-color:#18141d;
+    border-radius:0px;
     transition:all 0.2s ease-in-out;
   }
   .button-12Fmur:hover {
