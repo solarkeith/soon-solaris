@@ -272,7 +272,7 @@ code {
 .userPopoutInnerNonPremium-3zrFkp .bannerSVGWrapper-qc0szY foreignObject { /* Banner SVG Fix */
   mask: none;
 }
-.bannerSVGWrapper-qc0szY[id^="uid_"] {
+.bannerSVGWrapper-qc0szY>mask {
   display:none;
 }
   
