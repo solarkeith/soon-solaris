@@ -270,17 +270,10 @@ code {
   filter:none;
 }
 .userPopoutInnerNonPremium-3zrFkp .bannerSVGWrapper-qc0szY foreignObject { /* Banner SVG Fix */
-  mask: none!important;
+  mask: none;
 }
-[id*="uid_"] {
-  display:none!important;
-}
-.avatarWrapperNormal-1tQ3Je ,.avatar-3QF_VA {
-  border: 5px #292b2f solid;
-  border-radius:11px;
-}
-.avatar-3QF_VA {
-  border:5px #221f29 solid;
+.bannerSVGWrapper-qc0szY[id^="uid_"] {
+  display:none;
 }
   
   /* Avatar */
