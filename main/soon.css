@@ -288,6 +288,9 @@ code {
   .avatar-2e8lTP:hover {
     border-color:rgba(104, 58, 126, 0.322);
   }
+  .wrapper-1VLyxH circle {
+    fill:transparent;
+  }
   
   /* hailey my love<33 */
   .wrapper-30-Nkg [src*="505110032199843842"] ~ h2 .username-h_Y3Us::after {
