@@ -466,12 +466,14 @@ code {
 .categorySection-3j71bm,
 .scroller-1Kbkqa,
 #uid_40,
+#popout_8885,
 .reactors-1VXca7 {
   background-color:var(--background-primary)!important;
 }
 .emojiItem-277VFM.emojiItemSelected-2Lg50V,
 .sticker-H2HhJD.stickerInspected-mwnU6w,
-.reactionSelected-1aMb2K {
+.reactionSelected-1aMb2K,
+.option-ayUoaq. /* find the selected class for this (hint: searchbar!) */ {
   background-color:#201e27!important; /* ^ */
 }
 .categoryItemDefaultCategory-3haEDq.categoryItemDefaultCategorySelected-2YeRUu {
@@ -488,12 +490,16 @@ code {
 .searchBar-3aIzc-  {
   background-color:var(--background-tertiary);
 }
-.contentWrapper-3vHNP2 .categoryList-2qRrlj, .categoryList-2GgCrD, .list-obNEuP {
+.contentWrapper-3vHNP2 .categoryList-2qRrlj, .categoryList-2GgCrD, .list-obNEuP,
+.queryContainer-ZunrLZ {
   background-color:#1c1a22;
 }
-.container-2O1UgZ {
+.container-2O1UgZ,.colorPickerCustom-1swUKF {
   background-color:var(--user-popout-bg);
 }
 .inner-2pOSmK {
   background-color:var(--background-tertiary);
+}
+.messageGroupCozy-3v_RqN {
+  background-color:var(--messagebox-bg);
 }
