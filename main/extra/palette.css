@@ -83,7 +83,7 @@ by blueb442 (Modified Purpura Palette)
 
 /* Add Server Button [+] */
 --dark-background: #19161f;
---dark-background-secondary: #131013;
+--dark-background-secondary: var(--background-secondary);
 --dark-background-tertiary: #202225;
 --dark-modifier-hover: #221f22;
 --dark-modifier-selected: rgba(79, 84, 92, 0.6);

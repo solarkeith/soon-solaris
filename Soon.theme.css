@@ -8,11 +8,25 @@
  * @invite H8TH3Dg3z8
  */
 
+ /** CUSTOMIZATION
+  * If you wanna use the regular Discord Emojis, delete lines 25-29
+  * If you wanna change any (nonmain) colors or modify things go to lines 32-79
+  * Theme skins are not out yet
+  * If you wanna make a skin for the theme (palette) join our discord server
+  * If you need extra support, join our discord server
+ */
+
+
 /**
  * Main Source File 
  * DON'T REMOVE!
 */
 @import url("https://satanadesigns.github.io/soon/main/soon.css");
+/** 
+ * Replaces Emojis
+ * Delete line 20 if you want the regular discord emojis
+*/
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 
 :root {
   /* Banners (modifiable!) */
