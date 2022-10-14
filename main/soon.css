@@ -173,7 +173,7 @@ code {
     mask:none!important;
     -webkit-mask:none!important;
     border-radius:5px!important;
-    border: solid 1px #15131a;
+    border: solid 1px var(--background-primary);
   }
   .lowerBadge-3WTshO {
     border-top-left-radius:5px!important;
@@ -181,8 +181,8 @@ code {
     border-bottom-left-radius:3px!important;
     margin-bottom:-5px!important;
     margin-right:-5px!important;
-    border:solid 2px #15131a;
-    background-color:#15131a;
+    border:solid 2px var(--background-primary);
+    background-color:var(--background-primary);
   }
   .unreadMentionsIndicatorBottom-3RJMnQ.bar-2eAyLE,.unreadMentionsBar-ZXXoOH {
     mask:none!important;
