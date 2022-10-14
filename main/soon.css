@@ -555,3 +555,13 @@ code {
 .container-2cd8Mz .themed-Hp1KC_{
   background-color: #15131a;
 }
+
+.panels-3wFtMD {
+  order:-1;
+  height:48px;
+  background-color: var(--background-primary);
+  border-bottom:solid 1px rgb(0,0,0,0.3);
+}
+.panels-3wFtMD .avatar-1EWyVD {
+  margin-left:3px;
+}
