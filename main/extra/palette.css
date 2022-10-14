@@ -22,9 +22,9 @@ by blueb442 (Modified Purpura Palette)
 --background-floating: #1b171b!important;
 --background-mobile-primary: #08070a!important;
 --background-mobile-secondary: #08070a!important;
---background-modifier-hover: rgba(79,84,92,0.16)!important;
---background-modifier-active: rgba(79,84,92,0.24)!important;
---background-modifier-selected: rgba(79,84,92,0.32)!important;
+--background-modifier-hover: #31323942!important;
+--background-modifier-active: #2b29339a!important;
+--background-modifier-selected: #2b29336e!important;
 --background-modifier-accent: hsla(0,0%,100%,0.06)!important;
 --info-positive-text: #fff!important;
 --info-warning-text: #fff!important;
