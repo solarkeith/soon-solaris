@@ -574,3 +574,11 @@ code {
 #popout_2179 .container-2McqkF {
   background-color:#121016!important;
 }
+
+.customItem-2CxBSo .button-1zW0-r {
+  border-radius:5px;
+  background-color:rgb(0,0,0,0.3);
+}
+.customItem-2CxBSo .button-1zW0-r:hover {
+  background-color:rgb(0,0,0,0.5);
+}
