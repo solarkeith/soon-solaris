@@ -231,9 +231,6 @@ code {
   .autocomplete-3NRXG8,.autocomplete-3jLKbj,.autocompleteAttached-bt_md- {
     background-color:var(--autocomplete-bg)!important;
   }
-  .closedFolderIconWrapper-3tRb2d {
-    background-color:var(--closed-folder-bg);
-  }
   
   /* bug fixes */
   .children-3xh0VB:after{
@@ -581,4 +578,8 @@ code {
 }
 .customItem-2CxBSo .button-1zW0-r:hover {
   background-color:#14161a;
+}
+.expandedFolderIconWrapper-3RwQpD,
+.expandedFolderBackground-1kSAf6  {
+    background-color: var(--closed-folder-bg);
 }
