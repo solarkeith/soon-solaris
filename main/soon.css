@@ -602,3 +602,14 @@ code {
 .paymentModalContent, .paymentModalContent .bodyWrapper-23FTiG, .headerAnimation-3DVb6i {
   background-color: var(--background-secondary);
 }
+.react-datepicker,
+.calendarPicker-sDhzdi,
+.react-datepicker__current-month,
+.react-datepicker__header,
+.react-datepicker__month  {
+    background-color: var(--background-secondary)!important;
+}
+.react-datepicker__day--disabled,
+.react-datepicker__day--outside-month {
+    background-color: rgb(14,12,17,3)!important;
+}
