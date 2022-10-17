@@ -613,3 +613,7 @@ code {
 .react-datepicker__day--outside-month {
     background-color: rgb(14,12,17,3)!important;
 }
+#app-mount .colorPickerCustom-1swUKF {
+  background-color: var(--background-secondary);
+  border-radius:10px;
+}
