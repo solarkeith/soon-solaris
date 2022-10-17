@@ -617,3 +617,9 @@ code {
   background-color: var(--background-secondary);
   border-radius:10px;
 }
+.content-1jQy2l,.title-31SJ6t {
+  background-color: var(--background-primary)!important;
+}
+.container-2Hi7Km, .containerCard-2kwJKN {
+  background-color: var(--background-secondary);
+}
