@@ -599,3 +599,6 @@ code {
 .modalSize-3WSXDU {
   background-color: var(--background-secondary);
 }
+.paymentModalContent, .paymentModalContent .bodyWrapper-23FTiG, .headerAnimation-3DVb6i {
+  background-color: var(--background-secondary);
+}
