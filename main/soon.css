@@ -646,3 +646,8 @@ code {
 #app-mount ::-webkit-scrollbar-thumb {
   background-color: var(--scroller-color);
 }
+
+
+.categoryHeader-OpJ1Ly {
+  background-color: var(--autocomplete-bg);
+}
