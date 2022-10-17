@@ -627,3 +627,13 @@ code {
 .iconActiveLarge-ac-EDu {
     background-color:#0e0c11!important;
 }
+.contentWrapper-3oy4Xo {
+  background-color: var(--background-secondary)!important;
+}
+.inviteSplash-2Q0PLE {
+  filter:blur(0.956px);
+  transition: 0.5s all ease;
+}
+.inviteSplash-2Q0PLE:hover {
+  filter:none;
+}
