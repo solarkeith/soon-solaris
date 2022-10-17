@@ -583,3 +583,7 @@ code {
 .expandedFolderBackground-1kSAf6  {
     background-color: var(--closed-folder-bg);
 }
+
+.invite-3uuHYQ {
+  background-color: rgb(0,255,0,0.07)!important;
+}
