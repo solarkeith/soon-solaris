@@ -2,6 +2,7 @@
 by blueb442 (Modified Purpura Palette)
 */
 :root, .theme-light, .theme-dark {
+--scroller-color: rgb(186,85,211,0.075);
 --header-primary: #fff!important;
 --header-secondary: #b9bbbe!important;
 --text-normal: #dcddde!important;

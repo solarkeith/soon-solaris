@@ -637,3 +637,12 @@ code {
 .inviteSplash-2Q0PLE:hover {
   filter:none;
 }
+
+/* scrollbar. */
+#app-mount ::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+#app-mount ::-webkit-scrollbar-thumb {
+  background-color: var(--scroller-color);
+}
