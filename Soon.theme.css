@@ -1,7 +1,7 @@
 /**
  * @name Soon
  * @author Satana
- * @version 1.0.1
+ * @version 1.0.2
  * @description A smooth, modifiable theme for simple-minded people
  * @website https://satana.design
  * @source https://github.com/SatanaDesigns/soon
@@ -9,7 +9,7 @@
  */
 
  /*
-    Do not modify this file if you don't know what you're doing. Report any bugs to our Discord server.
+Do NOT modify this file if you dont know what youre doing.
  */
 
  /** CUSTOMIZATION
@@ -43,9 +43,10 @@
   --font-display: Poppins;
   --codeblock-font: Fira Code;
 
-  /* Avatar Image Shape (modifiable!) */
-    --avatar-radius: 10px;
-    --reply-avatar-radius:5px;
+  /* Avatar Image Shape (modifiable!) (change all of the numbers to modify shape) */
+    --rs-avatar-shape: 10%; /* 50% for round - 10% for default */
+    --avatar-radius: 10px; /* default: 10px */
+    --reply-avatar-radius:5px; /* default: 5px */
 
   /* Radial Status (modifiable!) */
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
@@ -54,7 +55,6 @@
   --rs-small-width: 2px; /* Thickness of status border for members list/dms | MUST end in px */
   --rs-medium-width: 3px; /* Thickness of status border for User popout | MUST end in px */
   --rs-large-width: 4px; /* Thickness of status border for User profile | MUST end in px */
-  --rs-avatar-shape: 10%; /* 50% for round - 0% for square */
   --rs-online-color: #43b581; /* Colour for online status */
   --rs-idle-color: #faa61a; /* Colour for idle status */
   --rs-dnd-color: #f04747; /* Colour for dnd status */
