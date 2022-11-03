@@ -13,10 +13,16 @@
 
 ---
 
-<h1 align="center">Preview</h1>
+<h1 align="center">Previews</h1>
 <p align="center">
-  <img src="https://i.ibb.co/8DRfm8J/Discord-HUFDi1-Wl83.png" />
-  <img src="https://i.ibb.co/3MQ071p/Discord-TD6-Dc-Nq-G7k.png" />
+<h3 align="center">Home</h3>
+  <img src="https://i.imgur.com/GMYjE7p.png" />
+  <h3 align="center">Server</h3>
+  <img src="https://i.imgur.com/MdsruAl.png" />
+  <h3 align="center">Settings</h3>
+  <img src="https://i.imgur.com/ud5b9tF.png" />
+  <h3 align="center">User Popout</h3>
+  <img src="https://i.imgur.com/o2Yty6Z.png" />
 </p>
 
 ---
