@@ -56,11 +56,11 @@ code {
   }
   .scroller-3X7KbA .wrapper-28eC3z foreignObject, .folderIconWrapper-1oRIZr, .wrapperSimple-Js2rIO{
     mask: none;
-    border-radius: 5px;
+    border-radius: var(--folder-radius);
   }
   .icon-1zKOXL {
     mask:none;
-    border-radius:3px;
+    border-radius:var(--server-radius);
   }
   /* Servers */
   .tutorialContainer-1pL9QS .selected-3a1QGn .childWrapper-1j_1ub, .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub  {

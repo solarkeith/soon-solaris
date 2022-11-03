@@ -1,7 +1,7 @@
 /**
  * @name Soon
  * @author Satana
- * @version 1.0.2
+ * @version 1.0.3
  * @description A smooth, modifiable theme for simple-minded people
  * @website https://satana.design
  * @source https://github.com/SatanaDesigns/soon
@@ -47,6 +47,10 @@ Do NOT modify this file if you dont know what youre doing.
     --rs-avatar-shape: 10%; /* 50% for round - 10% for default */
     --avatar-radius: 10px; /* default: 10px */
     --reply-avatar-radius:5px; /* default: 5px */
+
+  /* Server Image Shape (modifiable!) (change all of the numbers to modify shape) */
+    --server-radius:3px; /* default: 3px */
+    --folder-radius:5px; /* default: 5px */
 
   /* Radial Status (modifiable!) */
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
