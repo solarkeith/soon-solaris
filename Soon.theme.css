@@ -1,7 +1,7 @@
 /**
  * @name Soon
  * @author Satana
- * @version 1.0.3
+ * @version 1.0.4
  * @description A smooth, modifiable theme for simple-minded people
  * @website https://satana.design
  * @source https://github.com/SatanaDesigns/soon
@@ -69,7 +69,7 @@ Do NOT modify this file if you dont know what youre doing.
   --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
   
   /* Chat Bubbles (modifiable!) */
-      --chat-bubble: 1;
+      --chat-bubble: 1; /* 1 to enable chat bubbles, 0 to disable chat bubbles */
 
     --chat-bubble-background-color: #1f1d27a1;
     --chat-bubble-border-color: none;
@@ -86,6 +86,9 @@ Do NOT modify this file if you dont know what youre doing.
     --chat-bubble-box-shadow-color-s: 0%;
     --chat-bubble-box-shadow-color-l: 0%;
     --chat-bubble-box-shadow-color-a: 0;
+
+    /* User Panel Position (top/bottom) */
+    --userpanel-position: 0; /* -1 to move it to the top, 0 for bottom */
 }
 
 .giftCodeContainer-3ObH0O .description-X8_53U {

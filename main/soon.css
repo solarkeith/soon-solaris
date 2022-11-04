@@ -554,10 +554,9 @@ code {
 }
 
 .panels-3wFtMD {
-  order:-1;
+  order:var(--userpanel-position);
   min-height:48px;
   background-color: var(--background-primary);
-  border-bottom:solid 1px rgb(0,0,0,0.3);
 }
 .panels-3wFtMD .avatar-1EWyVD {
   margin-left:3px;
