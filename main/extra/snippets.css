@@ -940,3 +940,26 @@ Discord UserID: 678469587444170762
     margin-left:auto;
 }
 
+
+
+/* 
+-Bigger Titlebar-
+By ElitePrime#7266
+Discord UserID: 542750206299734039
+*/
+.winButton-3UMjdg {
+  height: 25px;
+  width: 34px;
+  margin-top: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.withFrame-2dL45i {
+  height: fit-content;
+  margin-top: 0px;
+}
+.wordmarkWindows-2dq6rw {
+  margin-top: 10px;
+  margin-left: 12px;
+  padding: 0px;
+}
