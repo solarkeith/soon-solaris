@@ -4,7 +4,7 @@
 
 :root {
     /* Theme Version */
-     --soon-ver: "1.0";
+     --soon-ver: "1.0.6";
 }
 /* Fonts */
 code {
@@ -652,4 +652,70 @@ code {
 }
 .menu-1QACrS {
   background-color:#151216!important;
+}
+
+.giftCodeContainer-3ObH0O .description-X8_53U {
+  background-color: #1e1b25;
+}
+.tooltip-14MtrL{
+  backdrop-filter: blur(15px);
+}
+
+/* Channel Tab Support */
+#app-mount #channelTabs-container{
+  background: var(--background-secondary);
+  margin: 10px;
+  border-radius:5px;
+}
+#app-mount #channelTabs-settingsMenu{
+  margin-right: 15px;
+}
+.channelTabs-tabContainer{
+  margin: 2px;
+}
+.channelTabs-tab{
+  margin-left: 5px;
+}
+.channelTabs-mentionBadge:not(#boysMakeMyDickHard) {
+    border-radius:4px;
+    mask:none;
+}
+
+.channelTabs-tabIcon:not(#iLoveBigMenFuckingMyTightLittleGirlHoles), .channelTabs-tabIconWrapper > foreignObject {
+  border-radius:5px;
+  mask:none;
+}
+.channelTabs-tabIconWrapper>foreignObject[mask]{
+  mask: none;
+}
+#app-mount .channelTabs-tabIcon{
+  border-radius: 10%;
+}
+.channelTabs-tabIconWrapper>rect{
+  x: 0;
+  y: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-mask: none;
+  mask: none;
+  display: block;
+  rx: 5px;
+  ry: 5px;
+  fill: transparent !important;
+  stroke-width: var(--rs-small-width);
+}
+.channelTabs-tabIconWrapper>.channelTabs-doNotDisturbIcon{
+  stroke: var(--rs-dnd-color);
+}
+.channelTabs-tabIconWrapper>.channelTabs-onlineIcon{
+  stroke: var(--rs-online-color);
+}
+.channelTabs-tabIconWrapper>.channelTabs-idleIcon{
+  stroke: var(--rs-idle-color);
+}
+.channelTabs-tabIconWrapper>.channelTabs-offlineIcon{
+  stroke: var(--rs-offline-color);
+}
+.channelTabs-tabIconWrapper>rect:not(.channelTabs-offlineIcon,.channelTabs-idleIcon,.channelTabs-onlineIcon,.channelTabs-doNotDisturbIcon){
+  stroke: var(--rs-streaming-color);
 }

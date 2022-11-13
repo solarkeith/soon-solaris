@@ -1,7 +1,7 @@
 /**
  * @name Soon
  * @author Satana
- * @version 1.0.5
+ * @version 1.0.6
  * @description A smooth, modifiable theme for simple-minded people
  * @website https://satana.design
  * @source https://github.com/SatanaDesigns/soon
@@ -89,8 +89,4 @@ Do NOT modify this file if you dont know what youre doing.
 
     /* User Panel Position (top/bottom) */
     --userpanel-position: 0; /* -1 to move it to the top, 0 for bottom */
-}
-
-.giftCodeContainer-3ObH0O .description-X8_53U {
-  background-color: #1e1b25;
 }

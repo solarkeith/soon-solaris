@@ -35,6 +35,13 @@
   - place it in the BetterDiscord themes folder || folder directory : %appdata%/betterdiscord/themes.
   - enable **soon** in the themes tab.
 
+
+## Plugin Support
+
+- [Channel Tabs](https://betterdiscord.app/plugin/ChannelTabs)
+- [Call Time Counter](https://betterdiscord.app/plugin/CallTimeCounter)
+- [App Notifications](https://betterdiscord.app/plugin/AppNotifications)
+
 ## Modify
 
 - Open [soon.theme.css](https://github.com/SatanaDesigns/soon/blob/main/Soon.theme.css)
