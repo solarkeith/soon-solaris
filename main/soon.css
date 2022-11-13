@@ -4,7 +4,7 @@
 
 :root {
     /* Theme Version */
-     --soon-ver: "1.0.6";
+     --soon-ver: "1.0.7";
 }
 /* Fonts */
 code {
@@ -718,4 +718,35 @@ code {
 }
 .channelTabs-tabIconWrapper>rect:not(.channelTabs-offlineIcon,.channelTabs-idleIcon,.channelTabs-onlineIcon,.channelTabs-doNotDisturbIcon){
   stroke: var(--rs-streaming-color);
+}
+
+#app-mount .container-2nx-BQ,
+#app-mount .bd-switch-body {
+	width: 20px;
+	height: 20px;
+	background: transparent!important;
+}
+
+#app-mount .container-2nx-BQ .slider-32CRPX,
+#app-mount .bd-switch-body .bd-switch-slider {
+	left: -6px !important;
+}
+
+#app-mount .container-2nx-BQ .slider-32CRPX>rect,
+#app-mount .bd-switch-body .bd-switch-slider rect {
+	height: 20px !important;
+	width: 20px !important;
+	x: 4px !important;
+	y: 0px !important;
+	rx: 5;
+	fill: var(--background-accent);
+
+}
+
+.bd-switch-checked .bd-switch-symbol path {
+	fill: rgb(0, 255, 0) !important;
+}
+
+.bd-switch .bd-switch-symbol path {
+	fill: #999;
 }
