@@ -71,17 +71,16 @@ Do NOT modify this file if you dont know what youre doing.
   /* Chat Bubbles (modifiable!) */
       --chat-bubble: 1; /* 1 to enable chat bubbles, 0 to disable chat bubbles */
 
-    --chat-bubble-background-color: #1f1d27a1;
-    --chat-bubble-border-color: none;
-    --chat-bubble-code-background-color: var(--background-secondary-alt);
+    --chat-bubble-background-color: #1f1d27a1; /* Background Color of chat bubbles | #1f1d27a1 */
+    --chat-bubble-border-color: none; /* Chat bubble border | [color] to enable - none to disable */
+    --chat-bubble-code-background-color: var(--background-secondary-alt); /* Chat bubble background color for Code Messages | var(--background-secondary-alt) */
 
-    --chat-bubble-max-width: 90%;
-    --chat-bubble-border-radius: 5px;
-
+    --chat-bubble-max-width: 90%; /* Max width for chat bubble */
+    --chat-bubble-border-radius: 5px; /* Roundness of chat bubble */
+    /* Chat bubble shadows */
     --chat-bubble-box-shadow-h-offset: 0;
     --chat-bubble-box-shadow-v-offset: 0;
     --chat-bubble-box-shadow-blur: 0;
-    
     --chat-bubble-box-shadow-color-h: 0;
     --chat-bubble-box-shadow-color-s: 0%;
     --chat-bubble-box-shadow-color-l: 0%;
