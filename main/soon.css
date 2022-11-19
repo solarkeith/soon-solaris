@@ -761,3 +761,8 @@ Do Not Touch.
 .root-g14mjS :where(.header-1zd7se, .header-DdKz5e,.spinner-2RT7ZC){
   background-color: var(--background-secondary);
 }
+
+/* Chat bubble in delete message dialog */
+.message-G6O-Wv {
+  background-color:var(--chat-bubble-background-color)!important;
+}
