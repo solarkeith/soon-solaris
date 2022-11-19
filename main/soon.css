@@ -766,3 +766,15 @@ Do Not Touch.
 .message-G6O-Wv {
   background-color:var(--chat-bubble-background-color)!important;
 }
+
+/* searchbar fix */
+.option-ayUoaq:after{
+  content: none;
+}
+#app-mount .queryContainer-ZunrLZ{
+  background-color: var(--background-secondary);
+}
+#app-mount .queryShortcut-GrmI-7 .key-N5VmHN{
+  background-color: #282430;
+  box-shadow: none;
+}
