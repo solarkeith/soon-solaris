@@ -361,8 +361,8 @@ Do Not Touch.
 }
   
 /* Discover Servers Page */
-.pageWrapper-2PwDoS,.list-3FIpnh:not(#a) {
-  background-color: #19171b;
+.pageWrapper-2PwDoS,.list-3FIpnh {
+  background-color: #19171b!important;
 }
 .searchBox-pyIJJj:not(#a) {
   background-color:#141218;
