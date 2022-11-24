@@ -769,7 +769,10 @@ Do Not Touch.
 
 /* searchbar fix */
 .option-ayUoaq:after{
-  content: none;
+  background: var(--background-secondary);
+}
+.option-ayUoaq:hover:after{
+  background: linear-gradient(to left, var(--background-secondary-alt) 53%,transparent 94%);
 }
 #app-mount .queryContainer-ZunrLZ{
   background-color: var(--background-secondary);
@@ -777,4 +780,48 @@ Do Not Touch.
 #app-mount .queryShortcut-GrmI-7 .key-N5VmHN{
   background-color: #282430;
   box-shadow: none;
+}
+
+/* phone number modal styling */
+.phoneVerificationModal-3OHeBt{
+  background-color: #121016;
+}
+.phoneVerificationModal-3OHeBt>.flex-2S1XBF>button{
+  background-color: var(--brand-experiment-500);
+}
+.phoneVerificationModal-3OHeBt>.flex-2S1XBF>button:hover{
+  background-color: var(--brand-experiment-560);
+}
+.phoneVerificationModal-3OHeBt>.flex-2S1XBF>input,
+.phoneVerificationModal-3OHeBt>.flex-2S1XBF{
+  background-color: var(--messagebox-bg);
+  box-shadow: none;
+  border: 0;
+}
+.phoneVerificationModal-3OHeBt>.flex-2S1XBF{
+  filter: drop-shadow(0 0 5px var(--messagebox-bg));
+}
+#app-mount .elevationBorderLow-3_3rXL{
+  background: var(--background-secondary);
+}
+body #app-mount .phoneFieldScroller-e7_1Vz>.selectableItem-3-fmiM:hover{
+  background-color: var(--user-popout-bg);
+}
+#app-mount .phoneFieldScroller-e7_1Vz>.selectableItem-3-fmiM:focus{
+  background-color: transparent;
+}
+
+/* region popout restyle */
+#app-mount .quickSelectPopout-2F0PXw{
+  background: var(--background-floating);
+  backdrop-filter: blur(20px);
+}
+body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
+  background-color: var(--background-modifier-hover);
+}
+#app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:focus{
+  background-color: transparent;
+}
+.topControls-23RE3h>:not([class])>.flex-3BkGQD{
+  margin-top: 5px;
 }
