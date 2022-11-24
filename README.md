@@ -51,6 +51,7 @@
 
 ## Credits
 
+- [carrot](https://github.com/ObjectiveSlayer) for being a real homie
 - [Obscure](https://github.com/Obscure-Git) for the icon change
 - [blueb442](https://github.com/blueb442) for the color palette
 - [Gibbu](https://github.com/Gibbu) for Radial Status
