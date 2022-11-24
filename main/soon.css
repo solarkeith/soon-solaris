@@ -710,16 +710,16 @@ Do Not Touch.
   stroke: var(--rs-streaming-color);
 }
 
-#app-mount .container-2nx-BQ:not(#a),
-#app-mount .bd-switch-body:not(#a) {
+.container-2nx-BQ,
+.bd-switch-body {
 	width: 20px;
 	height: 20px;
-	background: transparent;
+	background: transparent !important;
 }
 
-#app-mount .container-2nx-BQ .slider-32CRPX,
-#app-mount .bd-switch-body .bd-switch-slider {
-	left: -6px;
+.container-2nx-BQ .slider-32CRPX,
+.bd-switch-body .bd-switch-slider {
+	left: -6px !important;
 }
 
 #app-mount .container-2nx-BQ .slider-32CRPX>rect,
