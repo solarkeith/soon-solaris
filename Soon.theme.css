@@ -1,7 +1,7 @@
 /**
  * @name Soon
  * @author Satana
- * @version 1.0.9
+ * @version 1.0.10
  * @description A smooth, modifiable theme for simple-minded people
  * @website https://satana.design
  * @source https://github.com/SatanaDesigns/soon
@@ -37,7 +37,7 @@ Do NOT modify this file if you dont know what youre doing.
 
 /** 
  * Replaces Emojis
- * Delete this @import if you want the regular discord icons
+ * Delete this @import if you want the regular discord emojis
 */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 
