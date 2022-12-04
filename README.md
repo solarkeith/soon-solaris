@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">A smooth, modifiable theme for simple-minded people.</p>
+<h6 align="center">Founded by SatanaDesigns, maintained & owned by carrot</h6>
 
 ---
 
