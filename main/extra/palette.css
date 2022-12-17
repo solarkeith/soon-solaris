@@ -92,4 +92,8 @@ by blueb442 (Modified Purpura Palette)
 --dark-header-secondary: #b9bbbe!important;
 --dark-text: #dcddde!important;
 --dark-link: hsl(197, calc(var(--saturation-factor, 1) * 100%), 47.8%)!important;
+
+/* Tab Bars */
+--itemtab-default: #00000063;
+--itemtab-selected: #000000bd;
 }

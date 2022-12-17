@@ -844,3 +844,18 @@ body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
 .privateChannels-oVe7HL {
     border-top-left-radius:15px!important;
 }
+
+/* Tab Bars (user profile) */
+.tabBarItem-3VvT2z {
+  background-color: var(--itemtab-default);
+  padding:10px;
+  margin-right:-25px;
+  margin-bottom:15px;
+  border-radius:10px;
+  max-height:16px;
+  border-color:var(--itemtab-default)!important;
+}
+
+.selected-g-kMVV.tabBarItem-3VvT2z {
+  background-color: var(--itemtab-selected);
+}
