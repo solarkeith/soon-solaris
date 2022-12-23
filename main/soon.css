@@ -859,3 +859,8 @@ body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
 .selected-g-kMVV.tabBarItem-3VvT2z {
   background-color: var(--itemtab-selected);
 }
+
+/* status emojipicker fix */
+.formGroup-146LDV>.children-1xdcWE .inputContainer-3envCr :where(div+div:last-child,input){
+  filter: none;
+}
