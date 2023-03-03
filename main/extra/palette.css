@@ -97,3 +97,7 @@ by blueb442 (Modified Purpura Palette)
 --itemtab-default: #00000063;
 --itemtab-selected: #000000bd;
 }
+
+.inputForm-3RoxXV .inputDefault-Ciwd-S {
+    background-color: var(--background-tertiary);
+}
