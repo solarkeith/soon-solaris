@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">A smooth, modifiable theme for simple-minded people.</p>
-<h6 align="center">Founded, owned, and maintained by lazaret#0734 | 1078202593983082546</h6>
+<h6 align="center">Founded, owned, and maintained by thaigirl digital#0220 | 1078202593983082546</h6>
 
 ---
 
