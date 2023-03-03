@@ -864,3 +864,8 @@ body #app-mount .quickSelectPopout-2F0PXw>.quickSelectPopoutOption-2E2UmS:hover{
 .formGroup-146LDV>.children-1xdcWE .inputContainer-3envCr :where(div+div:last-child,input){
   filter: none;
 }
+
+/* Voice Chat PFPs */
+.voiceUser-3nRK-K .content-1Tgc42 .userAvatar-3Hwf1F {
+  border-radius:var(--rs-avatar-shape)!important;
+}
