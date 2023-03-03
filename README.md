@@ -5,10 +5,6 @@
   <a href="#credits">credits</a>
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/9Z12gCb/soon-banner.png" />
-</p>
-
 <p align="center">A smooth, modifiable theme for simple-minded people.</p>
 <h6 align="center">Founded, owned, and maintained by thaigirl digital#0220 | 1078202593983082546</h6>
 
