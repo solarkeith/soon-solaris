@@ -13,13 +13,13 @@
 <h1 align="center">Previews</h1>
 <p align="center">
 <h3 align="center">Home</h3>
-  <img src="https://i.imgur.com/GMYjE7p.png" />
+  <img src="https://i.imgur.com/CWU5lEa.png" />
   <h3 align="center">Server</h3>
-  <img src="https://i.imgur.com/MdsruAl.png" />
+  <img src="https://i.imgur.com/hAFPXL2.png" />
   <h3 align="center">Settings</h3>
-  <img src="https://i.imgur.com/ud5b9tF.png" />
+  <img src="https://i.imgur.com/jbwTYua.png" />
   <h3 align="center">User Popout</h3>
-  <img src="https://i.imgur.com/o2Yty6Z.png" />
+  <img src="https://i.imgur.com/ziLIn5k.png" />
 </p>
 
 ---
